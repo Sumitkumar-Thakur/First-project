@@ -42,6 +42,12 @@ body{
     margin-top: 100px;
     margin-bottom: 100px;
 }
+.image-fluid{
+    max-height: 800px ;
+    max-width: 800px;
+    width: 100%;
+    height: 100%;
+}
 .navbar.scrolled {
     background: violet;
     transition: background 500ms;
